@@ -4,5 +4,6 @@
 
 <h1 align="center">@SerafinoTool</h1>
 
+|ATIO was made for Educational purposes|
 |-------------------------------------------------|
 By using ATIO, you agree that you hold responsibility and accountability of any consequences caused by your actions.
