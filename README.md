@@ -16,7 +16,7 @@ You will find answers to the most frequent questions about use and conditions
 
 **How can I change my account configurations (license expiration, account name, password)?**
 
-You must enter the Discord Server [Disccord Server](https://dsc.gg/serafino)
+You must enter the Discord Server [Discord Server](https://dsc.gg/serafino)
 
 **What should I do if a module doesn’t work or I find a bug?**
 
