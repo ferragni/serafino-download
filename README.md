@@ -29,3 +29,5 @@ First enter the [Discord Server](https://dsc.gg/serafino). Then open a Ticket an
 - `Don’t ask for the chargeback` We will not refund anyone and for any reason
 
 - `Don't resell` If we discover you, your license will be deleted and you will not be refunded.
+
+✨Enjoy!✨
