@@ -1,5 +1,5 @@
-## Changelogs
+## ⚙ Changelogs
 
 ```
-- Dev version
+- 💻 Dev version
 ```
