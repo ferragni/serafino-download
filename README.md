@@ -3,3 +3,6 @@
 </p>
 
 <h1 align="center">@SerafinoTool</h1>
+
+|-------------------------------------------------|
+By using ATIO, you agree that you hold responsibility and accountability of any consequences caused by your actions.
